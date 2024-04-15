@@ -4,11 +4,6 @@
 <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanlozaa&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanlozaa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahsanlozaa" alt="ahsanlozaa" /></a> </p>
-
 - 🌱 I’m currently learning **ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhsanLozaa](https://github.com/AhsanLozaa)
