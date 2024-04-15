@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahsan Ilyas</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
-<div style="display: flex; justify-content: center;">
-    <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
-</div>
+<img alt="Coding" width="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanlozaa&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanlozaa" /> </p>
