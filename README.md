@@ -12,9 +12,6 @@
 
 - 📫 How to reach me **ahsanmohamed97@gmail.com**
 
-- 📄 Know about my experiences [https://salmon-rosemary-10.tiiny.site](https://salmon-rosemary-10.tiiny.site)
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
