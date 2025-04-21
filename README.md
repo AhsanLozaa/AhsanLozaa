@@ -1,72 +1,59 @@
-<h1 align="center">Hello, I'm Ahsan Ilyas 👋</h1>
-<h3 align="center">A Passionate Full-Stack Developer from Sri Lanka</h3>
-
-<p align="center">
-  <img alt="Coding Animation" width="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
-</p>
-
-<p align="center">
-  <strong>Currently Learning:</strong> Machine Learning (ML)
-</p>
-
-<p align="center">
-  <strong>Check out my projects:</strong> <a href="https://github.com/AhsanLozaa">GitHub</a>
-</p>
-
-<p align="center">
-  <strong>Feel free to reach out:</strong> <a href="mailto:ahsanmohamed97@gmail.com">ahsanmohamed97@gmail.com</a>
-</p>
-
-<h3 align="left">Connect with Me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/m-ahsan-ilyas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/ahsan-ilyas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/ahsanilyas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/ahsanmohamed97" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/muhammad_ahsan_ilyas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Technologies & Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-</p>
-
-<h3 align="left">Support My Work:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/ahsanilyas">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
-  </a>
-</p>
+<div align="center">
+  <h1 style="font-size: 3em; font-weight: bold; color: #2e3a59;">Hello, I'm Ahsan Ilyas 👋</h1>
+  <h2 style="font-size: 2em; font-weight: 300; color: #53688a;">Full-Stack Developer | Software Engineer</h2>
+  <p style="font-size: 1.2em; color: #7a8d9c; margin-top: 20px;">Passionate about building cutting-edge solutions and empowering businesses through technology.</p>
+  
+  <p style="font-size: 1.2em; color: #4b9cc9; font-weight: bold; margin-top: 15px;">Currently Learning: Machine Learning & AI</p>
+  
+  <div>
+    <p style="font-size: 1em; color: #344a5c; margin-top: 30px;">Feel free to explore my work and connect with me:</p>
+    <div>
+      <a href="https://github.com/AhsanLozaa" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+      <a href="https://linkedin.com/in/m-ahsan-ilyas" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="https://stackoverflow.com/users/ahsan-ilyas" target="_blank">
+        <img src="https://img.shields.io/badge/StackOverflow-%23F48024.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
+      </a>
+      <a href="https://www.kaggle.com/ahsanilyas" target="_blank">
+        <img src="https://img.shields.io/badge/Kaggle-%23007A8C.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+      </a>
+      <a href="mailto:ahsanmohamed97@gmail.com">
+        <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+    </div>
+  </div>
+  
+  <hr style="width: 80%; margin-top: 40px; border: 1px solid #d0e0e6;"/>
+  
+  <div style="margin-top: 40px;">
+    <h3 style="font-size: 2em; color: #4b9cc9;">Technologies & Tools I Work With</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+      <a href="https://developer.android.com" target="_blank"><img src="https://img.icons8.com/ios/452/android-os.png" alt="Android" width="60" height="60" /></a>
+      <a href="https://angular.io" target="_blank"><img src="https://img.icons8.com/ios/452/angularjs.png" alt="Angular" width="60" height="60" /></a>
+      <a href="https://aws.amazon.com" target="_blank"><img src="https://img.icons8.com/ios/452/amazon-web-services.png" alt="AWS" width="60" height="60" /></a>
+      <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/ios/452/bootstrap.png" alt="Bootstrap" width="60" height="60" /></a>
+      <a href="https://chartjs.org" target="_blank"><img src="https://img.icons8.com/ios/452/chart.png" alt="Chart.js" width="60" height="60" /></a>
+      <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/ios/452/docker.png" alt="Docker" width="60" height="60" /></a>
+      <a href="https://expressjs.com" target="_blank"><img src="https://img.icons8.com/ios/452/express.png" alt="Express" width="60" height="60" /></a>
+      <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/ios/452/firebase.png" alt="Firebase" width="60" height="60" /></a>
+      <a href="https://flutter.dev" target="_blank"><img src="https://img.icons8.com/ios/452/flutter.png" alt="Flutter" width="60" height="60" /></a>
+      <a href="https://nodejs.org" target="_blank"><img src="https://img.icons8.com/ios/452/nodejs.png" alt="Node.js" width="60" height="60" /></a>
+      <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/ios/452/python.png" alt="Python" width="60" height="60" /></a>
+      <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/ios/452/react.png" alt="React" width="60" height="60" /></a>
+      <a href="https://www.postgresql.org" target="_blank"><img src="https://img.icons8.com/ios/452/postgresql.png" alt="PostgreSQL" width="60" height="60" /></a>
+      <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/ios/452/tailwind-css.png" alt="Tailwind CSS" width="60" height="60" /></a>
+    </div>
+  </div>
+  
+  <hr style="width: 80%; margin-top: 40px; border: 1px solid #d0e0e6;"/>
+  
+  <div style="margin-top: 40px;">
+    <h3 style="font-size: 2em; color: #4b9cc9;">Support My Work</h3>
+    <a href="https://www.buymeacoffee.com/ahsanilyas">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+    </a>
+  </div>
+</div>
