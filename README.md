@@ -35,7 +35,6 @@
       <a href="https://angular.io" target="_blank"><img src="https://img.icons8.com/ios/452/angularjs.png" alt="Angular" width="60" height="60" /></a>
       <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/ios/452/bootstrap.png" alt="Bootstrap" width="60" height="60" /></a>
       <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/ios/452/docker.png" alt="Docker" width="60" height="60" /></a>
-      <a href="https://expressjs.com" target="_blank"><img src="https://img.icons8.com/ios/452/express.png" alt="Express" width="60" height="60" /></a>
       <a href="https://flutter.dev" target="_blank"><img src="https://img.icons8.com/ios/452/flutter.png" alt="Flutter" width="60" height="60" /></a>
       <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/ios/452/python.png" alt="Python" width="60" height="60" /></a>
     </div>
