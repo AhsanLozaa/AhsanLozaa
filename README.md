@@ -33,18 +33,11 @@
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
       <a href="https://developer.android.com" target="_blank"><img src="https://img.icons8.com/ios/452/android-os.png" alt="Android" width="60" height="60" /></a>
       <a href="https://angular.io" target="_blank"><img src="https://img.icons8.com/ios/452/angularjs.png" alt="Angular" width="60" height="60" /></a>
-      <a href="https://aws.amazon.com" target="_blank"><img src="https://img.icons8.com/ios/452/amazon-web-services.png" alt="AWS" width="60" height="60" /></a>
       <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/ios/452/bootstrap.png" alt="Bootstrap" width="60" height="60" /></a>
-      <a href="https://chartjs.org" target="_blank"><img src="https://img.icons8.com/ios/452/chart.png" alt="Chart.js" width="60" height="60" /></a>
       <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/ios/452/docker.png" alt="Docker" width="60" height="60" /></a>
       <a href="https://expressjs.com" target="_blank"><img src="https://img.icons8.com/ios/452/express.png" alt="Express" width="60" height="60" /></a>
-      <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/ios/452/firebase.png" alt="Firebase" width="60" height="60" /></a>
       <a href="https://flutter.dev" target="_blank"><img src="https://img.icons8.com/ios/452/flutter.png" alt="Flutter" width="60" height="60" /></a>
-      <a href="https://nodejs.org" target="_blank"><img src="https://img.icons8.com/ios/452/nodejs.png" alt="Node.js" width="60" height="60" /></a>
       <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/ios/452/python.png" alt="Python" width="60" height="60" /></a>
-      <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/ios/452/react.png" alt="React" width="60" height="60" /></a>
-      <a href="https://www.postgresql.org" target="_blank"><img src="https://img.icons8.com/ios/452/postgresql.png" alt="PostgreSQL" width="60" height="60" /></a>
-      <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/ios/452/tailwind-css.png" alt="Tailwind CSS" width="60" height="60" /></a>
     </div>
   </div>
   
