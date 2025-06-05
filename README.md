@@ -3,7 +3,7 @@
   <h2 style="font-size: 2em; font-weight: 300; color: #53688a;">Full-Stack Developer | Software Engineer</h2>
   <p style="font-size: 1.2em; color: #7a8d9c; margin-top: 20px;">Passionate about building cutting-edge solutions and empowering businesses through technology.</p>
   
-  <p style="font-size: 1.2em; color: #4b9cc9; font-weight: bold; margin-top: 15px;">Currently Learning: Machine Learning & AI</p>
+  <p style="font-size: 1.2em; color: #4b9cc9; font-weight: bold; margin-top: 15px;">Currently Learning: Real-Time Systems & Event-Driven Architecture</p>
   
   <div>
     <p style="font-size: 1em; color: #344a5c; margin-top: 30px;">Feel free to explore my work and connect with me:</p>
