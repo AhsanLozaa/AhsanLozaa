@@ -44,10 +44,4 @@
   
   <hr style="width: 80%; margin-top: 40px; border: 1px solid #d0e0e6;"/>
   
-  <div style="margin-top: 40px;">
-    <h3 style="font-size: 2em; color: #4b9cc9;">Support My Work</h3>
-    <a href="https://www.buymeacoffee.com/ahsanilyas">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
-    </a>
-  </div>
 </div>
