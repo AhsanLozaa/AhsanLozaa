@@ -1,53 +1,55 @@
 <div align="center">
 
-# Ahsan Ilyas | Software Engineer
+# Ahsan Ilyas 🚀
 
-## 💻 Full-Stack Development and Technology Solutions
+### Senior Full-Stack Developer | Software Architect
 
-> **Mission:** Passionate about architecting and implementing robust, cutting-edge solutions that drive business empowerment through scalable technology.
+<br>
+
+> **Architecting scalable solutions across the stack.** I specialize in building robust, high-performance applications, with a current focus on **Real-Time Systems** and complex **Event-Driven Architectures**.
 
 ---
 
-## 🎯 Current Focus & Expertise
+## 🔗 Connect & Collaborate
 
-### Deep Dive: Real-Time Systems and Event-Driven Architecture
+Find me across professional platforms and view my contributions:
 
-| Area | Status |
+| Platform | Link |
 | :--- | :--- |
-| **Primary Role** | Full-Stack Development |
-| **Current R&D** | Event Streaming (Kafka/RabbitMQ) |
-| **Goal** | Building Highly Available, Low-Latency Services |
+| **GitHub** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/AhsanLozaa) |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-ahsan-ilyas) |
+| **Email** | [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ahsanmohamed97@gmail.com) |
+| **Stack Overflow** | [![StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ahsan-ilyas) |
+| **Kaggle** | [![Kaggle](https://img.shields.io/badge/Kaggle-007A8C?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/ahsanilyas) |
 
 ---
 
-## 🛠️ Core Technology Stack
+## ⚙️ Technology Stack
 
-<p>A selection of the technologies and tools I utilize for development, spanning mobile, front-end, and back-end ecosystems:</p>
+Leveraging versatile tools to deliver end-to-end solutions.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/144/000000/python.png" alt="Python" width="60" height="60" /></a>
-  <a href="https://angular.io" target="_blank"><img src="https://img.icons8.com/color/144/000000/angularjs.png" alt="Angular" width="60" height="60" /></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://img.icons8.com/color/144/000000/flutter.png" alt="Flutter" width="60" height="60" /></a>
-  <a href="https://developer.android.com" target="_blank"><img src="https://img.icons8.com/color/144/000000/android-os.png" alt="Android" width="60" height="60" /></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/144/000000/bootstrap.png" alt="Bootstrap" width="60" height="60" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/144/000000/docker.png" alt="Docker" width="60" height="60" /></a>
+<br>
+
+### Development & Frameworks
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/144/000000/python.png" alt="Python" width="50" height="50" /></a>
+  <a href="https://angular.io" target="_blank"><img src="https://img.icons8.com/color/144/000000/angularjs.png" alt="Angular" width="50" height="50" /></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://img.icons8.com/color/144/000000/flutter.png" alt="Flutter" width="50" height="50" /></a>
+  <a href="https://developer.android.com" target="_blank"><img src="https://img.icons8.com/color/144/000000/android-os.png" alt="Android" width="50" height="50" /></a>
+</div>
+
+### Tools & Infrastructure
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/144/000000/docker.png" alt="Docker" width="50" height="50" /></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/144/000000/bootstrap.png" alt="Bootstrap" width="50" height="50" /></a>
 </div>
 
 ---
 
-## 🔗 Get In Touch
-
-| Resource | Link |
-| :--- | :--- |
-| **GitHub** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhsanLozaa) |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-ahsan-ilyas) |
-| **Email** | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanmohamed97@gmail.com) |
-| **Stack Overflow** | [![StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ahsan-ilyas) |
-| **Kaggle** | [![Kaggle](https://img.shields.io/badge/Kaggle-007A8C?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ahsanilyas) |
-
----
-
 <br>
+
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 
 </div>
