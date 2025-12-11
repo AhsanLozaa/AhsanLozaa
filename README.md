@@ -60,27 +60,6 @@
 
 </div>
 
-***
-
-## 🏆 CODING MANIFEST & ACHIEVEMENTS
-
-<div align="center">
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-        <a href="https://github.com/AhsanLozaa">
-        <img src="https://github-readme-stats.vercel.app/api?username=AhsanLozaa&show_icons=true&theme=gotham&hide_title=true&icon_color=00FFFF&text_color=FFFFFF&bg_color=0C131A&custom_title=GitHub%20Core%20Metrics" alt="GitHub Core Metrics" style="max-width: 48%; margin-bottom: 10px;"/>
-    </a>
-        <a href="https://github.com/AhsanLozaa">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanLozaa&layout=compact&theme=gotham&hide_title=true&text_color=FFFFFF&bg_color=0C131A&langs_count=6" alt="Top Languages" style="max-width: 48%; margin-bottom: 10px;"/>
-    </a>
-</div>
-
-<img src="https://wakatime.com/badge/user/103a4c58-6923-47ee-ab2f-c5c8291410f7/streak.svg" alt="WakaTime Streak" style="margin-top: 10px;"/>
-
-</div>
-
-***
-
 ## 🔗 HYPERLINKS
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
