@@ -40,7 +40,7 @@
 <div style="display: flex; gap: 30px; margin-top: 15px; margin-bottom: 25px;">
   <a href="https://kubernetes.io/" target="_blank" title="Kubernetes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="70" height="70" /></a>
   <a href="https://www.docker.com/" target="_blank" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="70" height="70" /></a>
-  <a href="https://aws.amazon.com/" target="_blank" title="AWS Cloud"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="70" height="70" /></a>
+  <a href="https://aws.amazon.com/" target="_blank" title="AWS Cloud"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="70" height="70" /></a>
 </div>
 
 ### DATA & REAL-TIME FLOWS 💾
@@ -66,9 +66,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhsanLozaa&show_icons=true&theme=gotham&hide_title=true&icon_color=00FFFF&text_color=FFFFFF&bg_color=0C131A&custom_title=GitHub%20Core%20Metrics" alt="GitHub Core Metrics" style="width: 90%; margin-bottom: 10px;"/>
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github.com/AhsanLozaa">
+        <img src="https://github-readme-stats.vercel.app/api?username=AhsanLozaa&show_icons=true&theme=gotham&hide_title=true&icon_color=00FFFF&text_color=FFFFFF&bg_color=0C131A&custom_title=GitHub%20Core%20Metrics" alt="Ahsan's GitHub Core Metrics" style="max-width: 48%; margin-bottom: 10px;"/>
+    </a>
+    <a href="https://github.com/AhsanLozaa">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanLozaa&layout=compact&theme=gotham&hide_title=true&text_color=FFFFFF&bg_color=0C131A&langs_count=6" alt="Ahsan's Top Languages" style="max-width: 48%; margin-bottom: 10px;"/>
+    </a>
+</div>
 
-<img src="https://wakatime.com/badge/user/103a4c58-6923-47ee-ab2f-c5c8291410f7/streak.svg" alt="WakaTime Streak" style="margin-top: 10px;"/>
+<img src="https://wakatime.com/badge/user/103a4c58-6923-47ee-ab2f-c5c8291410f7/streak.svg" alt="Ahsan's WakaTime Streak" style="margin-top: 10px;"/>
 
 </div>
 
@@ -78,16 +85,16 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <a href="https://linkedin.com/in/m-ahsan-ilyas" target="_blank">
-        <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN"/>
     </a>
     <a href="https://stackoverflow.com/users/ahsan-ilyas" target="_blank">
-        <img src="https://img.shields.io/badge/STACK_OVERFLOW-F48024?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+        <img src="https://img.shields.io/badge/STACK_OVERFLOW-F48024?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="STACK OVERFLOW"/>
     </a>
     <a href="https://www.kaggle.com/ahsanilyas" target="_blank">
-        <img src="https://img.shields.io/badge/KAGGLE-007A8C?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+        <img src="https://img.shields.io/badge/KAGGLE-007A8C?style=for-the-badge&logo=kaggle&logoColor=white" alt="KAGGLE"/>
     </a>
     <a href="mailto:ahsanmohamed97@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL"/>
     </a>
 </div>
 
