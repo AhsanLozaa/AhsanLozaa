@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 AHSAИ ILYAS - DISTRIBUTED SYSTEMS ARCHITECT
+# AHSAИ ILYAS - DISTRIBUTED SYSTEMS ARCHITECT
 
 ### Senior Full-Stack Engineer | Hyper-Scale & Low-Latency Specialist
 
